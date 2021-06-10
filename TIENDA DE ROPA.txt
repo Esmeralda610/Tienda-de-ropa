@@ -1,0 +1,84 @@
+<html>
+<img src="file:///C:/Users/lopez/Downloads/descarga.jpg" alt="logo"/>
+<head>
+<head/>
+<body bgcolor="pink" 
+</tr>
+<tr>
+<p> La nueva tienda,"Dupainfashon" se pone a sus ordenes ofreciendo los mejores diseños, ante cualquier prenda disponible</p>
+<ul id="menu">
+<li><a href="Mi negocio de moda.thml">inicio<la></li>
+<li><a href=."Ropa comoda.thml">ropa comoda<la></li>
+<li><a href=."Conjuntos calientes.thml">conjuntos calientes<la></li>
+</lu>
+<h1 style="color:red;">Oferta</h1>
+<p> Se les hace un coordial saludo, y sean todos bienvenidos a este nuevo proyecto esperando a que todo sea de su agrado y se les ofrece los mejores servicios, y de ante mano por nuevo lanzamiento se les obsequia un 30% de descuento para cualquier prenda.</p>
+
+<h1 style="color:purple;">Prendas disponibles en tienda "ROPA DE MUJER"</h1>
+<table border="3"> 
+<tr> 
+<td>Shorts mezclilla</td>
+<td>$150.00</td>
+</tr>
+<tr>
+<td>Blusas de algodon</td>
+<td>$80.00</td>
+</tr>
+<tr>
+<td>Pantalones "Jeans"</td>
+<td>$250.00</td>
+</tr>
+<tr>
+<td>Tops(En todos los colores disponibles)</td>
+<td>$90.00</td>
+</tr>
+<tr>
+<td>Sudaderas</td>
+<td>$180.00</td>
+</tr>
+<tr>
+<td>Chamarras de algodon, en todos los colores</td>
+<td>$350.00</td>
+</tr>
+<tr>
+<td>Mayones termicos</td>
+<td>$100.00</td>
+</tr>
+<tr>
+<td>Pans nueva moda</td>
+<td>$170.00</td>
+</tr>
+<tr>
+<td>Faldas"diseños piel</td>
+<td>$200.00</td>
+</tr>
+<tr>
+<h1 style="color:purple",>Y "Ropa De Hombre"</h1>
+<td>Chamarras, chicas,medianas y grandes</td>
+<td>$250.00</td>
+</tr>
+<tr>
+<td>Pantalones entubados, y marcas jeans para caballero</td>
+<td>$230.00</td>
+</tr>
+<tr>
+<td>Playeras (Todos los colores disponibles)</td>
+<td>$65.00<t/td>
+</tr>
+<tr>
+<td>Shorts mezclillas</td>
+<td>$100.00</td>
+</tr>
+<tr>
+<td>Conjuntos nueva moda.</td>
+<td>$180.00</td>
+</tr>
+</table>                        
+<h2 style="color:green;">Tips para diseñar tu ropa </h2>
+<a href="https://es.wikihow.com/dise%C3%B1ar-ropa/">Ver los tips de  diseños"></a>
+<a href="https://es.wikihow.com/dise%C3%B1ar-ropa/" target= "blank">Ver los tips de  diseños"></a>
+<p> siguiente</p>
+<a href="Mi negocio de moda.html">Inicio/a>-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/is6O29gQde8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
